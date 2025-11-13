@@ -5,7 +5,7 @@ permalink: /cv
 ---
 
 {% comment %} Note, put two spaces after a line to make a linebreak rather than a new paragraph 
-{% comment %}
+{% endcomment %}
 
 
 **Solo and Collaborative Exhibitions and Projects**
