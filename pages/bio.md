@@ -2,7 +2,7 @@
 layout: page
 title: "Bio"
 permalink: /bio
-image: JGO-headshot-6-20-24-v2-1000px.jpg
+image: bio/JGO-headshot-6-20-24-v2-1000px.jpg
 ---
 
 Julia Oldham (b. 1979, Frederick, MD) is an artist living and working in Eugene, OR. Using a range of media, from animation to graphic storytelling, she creates narrative works that explore scientific history and speculative futures. Recent work includes Fallout Dogs (2019), an experimental documentary about the stray dogs of the Chernobyl Exclusion Zone; Terra (2020), a three-channel science fiction video installation about a post climate disaster future in which the few remaining humans are cared for by AI “Stewards”; and Dendrostalkers (2022), a hybrid live action and animated film about trees that have evolved to exist in higher dimensions.

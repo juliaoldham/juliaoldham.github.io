@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv
 ---
 
-# Note, put two spaces after a line to make a linebreak rather than a new paragraph
+{%  Note, put two spaces after a line to make a linebreak rather than a new paragraph %}
 
 
 **Solo and Collaborative Exhibitions and Projects**
