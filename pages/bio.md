@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Bio"
 permalink: /bio
 image: JGO-headshot-6-20-24-v2-1000px.jpg
