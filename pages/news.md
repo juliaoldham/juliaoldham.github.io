@@ -2,7 +2,6 @@
 layout: page
 title: "News"
 permalink: /news
-# image: JGO-headshot-6-20-24-v2-1000px.jpg
 ---
 
 ![Dendrostalkers](assets/img/news/015-dendrostalkers-still005-1024x576.jpg)
