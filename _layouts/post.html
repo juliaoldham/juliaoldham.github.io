@@ -6,9 +6,6 @@ layout: default
   <h1>
     {{ page.title }}
   </h1>
-  {% if site.hide_post_date != true %}
-    {% include post-date.html %}
-  {% endif %}
   {% comment %}
   {% if page.image %}
     <div class="featured-image">
@@ -21,11 +18,5 @@ layout: default
   </article>
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
-  {% endif %}
-  {% if site.hide_related_posts != true %}
-    {% include related-posts.html %}
-  {% endif %}
-  {% if site.data.settings.disqus.comments %}
-    {% include disqus.html %}
   {% endif %}
 </div>
