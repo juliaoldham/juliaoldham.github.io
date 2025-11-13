@@ -5,7 +5,7 @@ author: "Julia Oldham"
 image: pondering/pondering-still01-768x432.jpg
 ---
 
-![pondering](asseets/img/pondering/pondering-stills-1024x819.jpg)
+![pondering](assets/img/pondering/pondering-stills-1024x819.jpg)
 
 “Pondering” (2025-) is an ongoing, 4-channel video documentation of a field research site in the Deschutes National Forest. To create “Pondering,” I visit the site every 2 to 4 weeks and take numerous slow-motion drone shots, filming from the ground to the canopy. I stitch together 4 of these shots from (approximately) each month to create a ongoing, vertically moving portrait of seasonal changes. Nestled among the ponderosa pines that I’m filming is a research tower, Ameriflux US-Me4, that is equipped with remote sensing tools utilized by scientists at Oregon State University. Scientists routinely climb this tower to install and adjust devices and to gather data.
 
