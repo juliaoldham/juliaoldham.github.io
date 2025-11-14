@@ -1,0 +1,8 @@
+/* For images within the main content area */
+.post-content img,
+.page-content img {
+  max-width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Remove extra space below the image */
+  margin: 0 auto; /* Center the image if it's smaller than 100% */
+}

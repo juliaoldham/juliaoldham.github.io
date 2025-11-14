@@ -7,9 +7,8 @@ image: september-orange/central-channel-orange-768x432.jpg
 
 ![OrangeGrid](assets/img/september-orange/orange-grids-still-3-wide-1024x192.jpg){:width="100%"}
 
-![VioletGrid](assets/img/september-orange/violet-grids-still-3-wide-4000px-1024x192.jpg){:width="100%"}
-
-![SilberGrid](assets/img/september-orange/silver-grids-still-3-wide-1024x192.jpg){:width="100%"}
+![VioletGrid](assets/img/september-orange/violet-grids-still-3-wide-4000px-1024x192.jpg)
+![SilberGrid](assets/img/september-orange/silver-grids-still-3-wide-1024x192.jpg)
 
 {% include vimeoPlayer.html id=1118887332 %}
 
