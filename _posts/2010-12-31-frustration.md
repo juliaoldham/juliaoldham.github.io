@@ -2,7 +2,7 @@
 layout: post
 title: "Frustration"
 date: 2010-12-31
-image: "/frustration/frustration.jpg"
+image: "frustration/frustration.jpg"
 ---
 
 {% include vimeoPlayer.html id=42437647 %}
