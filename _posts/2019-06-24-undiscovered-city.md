@@ -2,7 +2,7 @@
 layout: post
 title: "Undiscovered City"
 date: 2019-06-24
-image: "assets/img/undiscovered-city/weird-in-between-collage-2000.jpg"
+image: "/undiscovered-city/weird-in-between-collage-2000.jpg"
 ---
 
 ![](assets/img/undiscovered-city/weird-in-between-collage-2000.jpg)

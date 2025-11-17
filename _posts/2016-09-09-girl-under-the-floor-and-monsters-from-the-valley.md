@@ -2,7 +2,7 @@
 layout: post
 title: "Girl Under the Floor and Monsters from the Valley"
 date: 2016-09-09
-image: "assets/img/girld-under-the-floor-and-monserts-from-the-valley-dogbody.jpg"
+image: "/girld-under-the-floor-and-monserts-from-the-valley-dogbody.jpg"
 ---
 
 {% include vimeoPlayer.html id=166260708 %}

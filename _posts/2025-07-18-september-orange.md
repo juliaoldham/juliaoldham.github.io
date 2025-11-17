@@ -2,7 +2,7 @@
 layout: post
 title: "September: Orange"
 date: 2025-07-18
-image: "assets/img/september-orange/central-channel-orange.jpg"
+image: "september-orange/central-channel-orange.jpg"
 ---
 
 ![](assets/img/september-orange/orange-grids-still-3-wide-1024x192.jpg)

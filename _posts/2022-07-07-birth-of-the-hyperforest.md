@@ -2,7 +2,7 @@
 layout: post
 title: "Dendrostalkers"
 date: 2022-07-07
-image: "assets/img/birth-of-the-hyperforest/inverted_1.jpg"
+image: "birth-of-the-hyperforest/inverted_1.jpg"
 ---
 
 {% include vimeoPlayer.html id=731167427 %}

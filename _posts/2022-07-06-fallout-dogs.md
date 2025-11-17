@@ -2,7 +2,7 @@
 layout: post
 title: "Fallout Dogs"
 date: 2022-07-06
-image: "assets/img/fallout-dogs/doggy-in-building-in-Zalissia.jpg"
+image: "fallout-dogs/doggy-in-building-in-Zalissia.jpg"
 ---
 
 {% include vimeoPlayer.html id=289949551 %}

@@ -2,7 +2,7 @@
 layout: post
 title: "Pondering"
 date: 2025-09-05
-image: "assets/img/pondering/pondering-still01.jpg"
+image: "pondering/pondering-still01.jpg"
 ---
 
 ![](assets/img/pondering/pondering-stills-1024x819.jpg)

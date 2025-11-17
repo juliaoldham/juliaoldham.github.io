@@ -2,7 +2,7 @@
 layout: post
 title: "The Timber"
 date: 2009-08-21
-image: "assets/img/the-timber/breeze.jpg"
+image: "/the-timber/breeze.jpg"
 ---
 {% include vimeoPlayer.html id=171691978 %}
 

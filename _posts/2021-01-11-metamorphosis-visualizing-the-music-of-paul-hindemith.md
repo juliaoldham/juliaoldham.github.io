@@ -2,7 +2,7 @@
 layout: post
 title: "The Afterlife of Abandoned Objects"
 date: 2021-01-11
-image: "assets/img/metamorphosis-visualizing-the-music-of-paul-hindemith/snapper-still2-1920x2880.jpg"
+image: "metamorphosis-visualizing-the-music-of-paul-hindemith/snapper-still2-1920x2880.jpg"
 ---
 
 {% include vimeoPlayer.html id=800999600 %}

@@ -2,7 +2,7 @@
 layout: post
 title: "Laika's Lullaby"
 date: 2021-01-01
-image: "assets/img/laikas-lullaby/laika-still.jpg"
+image: "laikas-lullaby/laika-still.jpg"
 ---
 {% include vimeoPlayer.html id=123684913 %}
 

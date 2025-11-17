@@ -2,7 +2,7 @@
 layout: post
 title: "Woodrow's Story"
 date: 2016-09-01
-image: "assets/img/woodrows-story/cover-clipped.jpg"
+image: "/woodrows-story/cover-clipped.jpg"
 ---
 
 _Woodrow's Story_ (2020 - ) is a graphic novel about my senior rescue pomeranian, Woodrow, and his recovery from horrific neglect and abuse. This project is currently in progress.

@@ -2,7 +2,7 @@
 layout: post
 title: "Loneliness Creeps Down the Spine"
 date: 2020-08-30
-image: "assets/img/Oldhan-Loneliness-Creeps-Down-the-Spine.jpg"
+image: "Oldhan-Loneliness-Creeps-Down-the-Spine.jpg"
 ---
 
 {% include vimeoPlayer.html id=428359874 %}

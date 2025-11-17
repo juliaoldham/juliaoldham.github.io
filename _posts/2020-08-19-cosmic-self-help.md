@@ -2,7 +2,7 @@
 layout: post
 title: "How to Escape a Black Hole"
 date: 2020-08-19
-image: "assets/img/cosmic-self-help/09-how-to-escape-a-black-hole.jpg"
+image: "cosmic-self-help/09-how-to-escape-a-black-hole.jpg"
 ---
 
 {% include vimeoPlayer.html id=197135029 %}
