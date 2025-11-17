@@ -44,53 +44,53 @@ permalink: /press
 
 **Full List of Press**
 
-2024 Slattery, Brian. “Artists Tap into the Roots”, New Haven Independent, September 26.
-2024 Grandjean, Patricia. “Into the Woods”, The Daily Nutmeg, September 5.
-2020 Ponzio, Karen. “Dogs, Restaurant Workers Get a Fair Shake”, New Haven Independent, August 19.
-2020 Keefer, Bob. “Art on the Wild Side“, Eugene Weekly, May 21.
-2020 Kalinovski, Roman. “Cabin Fever with Julia Oldham“, Arcade Project, April 25
-2019 Schultz, Elizabeth. “The New Art of Moby Dick”, Leviathan, A Journal of Melville Studies, Volume 21, Number 1, March 2019
-2019 Jenkins, Mark. “Where the Celestial Meets the Nitty Gritty”, Washington Post, May 10
-2019 Carr, Lindsay. “Fallout Dogs of Pripyat”, Cleveland Magazine, March 11
-2019 Litt, Steven. “Fallout dogs of Chernobyl and requiem for child who died escaping slavery: On view at Spaces”, The Plain Dealer, March 11
-2018 Baer, April. “Artist Julia Oldham Captures The Dogs Of Chernobyl”, Oregon Public Broadcasting “State of Wonder”, August 30
-2018 Cipolle, Alex V. “Artist Julia Oldham is documenting Chernobyl through its dogs”, A Beautiful Perspective, July 31
-2017 Coleman, Dawn. “Whales in Cincinnati”, Leviathan: A Journal of Melville Studies, Volume 19, Number 1, March 2017, p122-139.
-2016 Rabin, Jennifer. “Julia Oldham: Filming the Human-Animal Hybrid”, Oregon ArtsWatch, September 7
-2016 Gittlen, Ariela. “7 Vanishing Technologies Making a Comeback through Art, Artsy Editorial, August 16, 2016.
-2016 Kramer, Elizabeth. “Bernheim residency links artists with nature”, Courier-Journal, January 20
-2015 Poole, Sabina. “Julia Oldham: Girl Masqued”, Oregon Artswatch, September 22
-2015 Jahn, Jeff. “Julia Oldham at Portland Pataphysical Society”, PORT, May 12
-2013 McQuaid, Cate. “The Artist-Animal Connection”, Boston Globe, November 25, 2013
-2012 Graves, Jen. Layoffs, Missing Persons, and Hot Wheels”, The Stranger, January 31
-2011 Johnson, Ken. Bronx Calling: The Frist AIM Biennial: Learning About the Marketplace and Entering It,” New York Times, August 11.
-2011 Johnson, Paddy. Bronx Calling, The First AIM Biennial: Profit and Loss”, Art Fag City, July 21.
-2011 Meier, Allison. “Bronx Calling: The First AIM Biennial”, Hyperallergic, July 18
-2011 Esplund, Lance. “Video Artist on Pause; Prodigies in Play”, Wall Street Journal, July 9.
-2011 Barratt, Caroline. “The Way Things Work”, Flagpole, April 27
-2011 Hitselberger, Brian, “Machinery and Mystery at ATHICA’s The Way Things Work”, Burnaway, April 22
-2010 Shuster, Robert. “Day Job at the Drawing Center”, Village Voice, December 22
-2010 Karlins, N. F., “Day Job”, Arnet, January 14
-2010 Gopnik, Blake, “Art, Science or Both?” Washington Post, September 21
-2010 Cotter, Holland, “Young Curators, New Ideas III”, New York Times, August 20
-2010 Levy, Michele, “New Curators: A Sequel”, ArtSlant, July 31
-2010 Drumm, Perrin, “Young Curators, New Ideas III”, sunFiltered at the Sundance Channel, July 21
-2010 Heilenman, Diane, “Julia Oldham’s insect videos have legs”, Louisville Courier-Journal, Arts, May 9
-2010 Peng, Qi, “Exclusive Assassination: Julia Oldham,” Examiner.com, January 18
-2009 Goetzman, Keith, “Dance Like a Bug,” Utne Reader, Arts Blog, December 21
-2009 Bras & Resende, “Churr-churr Ziz Ziz Ziz”, Magnetica Magazine, Volume 13, December, p. 58-59
-2009 Jerousek-Smith, Madeleine. “A Bug’s Dance”, The University of Chicago Magazine, November-December
-2009 Chatterson, Kris. “Downtown May 2009,” KCLOG, May 31
-2009 Chatterson, Kris. “Red Hook Brooklyn May 2009”, KCLOG, May 24
-2009 Covit, Dana. “Transmodern in Retrospect”, Radar Redux, April 19
-2009 Ayala, Bruno. “Julia Oldham apresenta “Balmy” no Espaço3″, Janela Urbana, March 24
-2009 Leorne, Ana. “Internacionalização da vídeo-arte de Julia Oldham começa por Lisboa”, Rascunho, March 23
-2009 Video interview with Art in General, Art in General Production Notes, April 4
-2009 Hackett, Regina.“‘Dearly Madly’: Romance as the End of the Road”, March 25, Another Bouncing Ball, Seattle, WA
-2009 Hobart, Erika. “Julia Oldham”, Seattle Weekly, Arts Section, March 28
-2009 Parsons, Laura. “Nice Niche: Art Sparks in the Stacks”, The Hook, February 2
-2009 “Archeology of Wonder Closing Reception”, Real Hartford, January 4
-2008 Hoffman, Hank. “Diverse ‘Archeology of Wonder’ show at Real Art Ways”, Connecticut Art Scene, December 10
-2008 Symkus, Ed. “Into the ‘Wild'”, Wicked Local, April 1
-2007 Ramos, Sam. “Gallery Shorts”, F News, May Edition
-2006 “A Closer Look: Recent Graduate Work”, Tableau, Spring/Summer, Volume 8, Number 1, p. 15
+**2024** Slattery, Brian. “Artists Tap into the Roots”, New Haven Independent, September 26.  
+**2024** Grandjean, Patricia. “Into the Woods”, The Daily Nutmeg, September 5.  
+**2020** Ponzio, Karen. “Dogs, Restaurant Workers Get a Fair Shake”, New Haven Independent, August 19.  
+**2020** Keefer, Bob. “Art on the Wild Side“, Eugene Weekly, May 21.  
+**2020** Kalinovski, Roman. “Cabin Fever with Julia Oldham“, Arcade Project, April 25  
+**2019** Schultz, Elizabeth. “The New Art of Moby Dick”, Leviathan, A Journal of Melville Studies, Volume 21, Number 1, March 2019  
+**2019** Jenkins, Mark. “Where the Celestial Meets the Nitty Gritty”, Washington Post, May 10  
+**2019** Carr, Lindsay. “Fallout Dogs of Pripyat”, Cleveland Magazine, March 11  
+**2019** Litt, Steven. “Fallout dogs of Chernobyl and requiem for child who died escaping slavery: On view at Spaces”, The Plain Dealer, March 11  
+**2018** Baer, April. “Artist Julia Oldham Captures The Dogs Of Chernobyl”, Oregon Public Broadcasting “State of Wonder”, August 30  
+**2018** Cipolle, Alex V. “Artist Julia Oldham is documenting Chernobyl through its dogs”, A Beautiful Perspective, July 31  
+**2017** Coleman, Dawn. “Whales in Cincinnati”, Leviathan: A Journal of Melville Studies, Volume 19, Number 1, March 2017, p122-139.  
+**2016** Rabin, Jennifer. “Julia Oldham: Filming the Human-Animal Hybrid”, Oregon ArtsWatch, September 7  
+**2016** Gittlen, Ariela. “7 Vanishing Technologies Making a Comeback through Art, Artsy Editorial, August 16, 2016.  
+**2016** Kramer, Elizabeth. “Bernheim residency links artists with nature”, Courier-Journal, January 20  
+**2015** Poole, Sabina. “Julia Oldham: Girl Masqued”, Oregon Artswatch, September 22  
+**2015** Jahn, Jeff. “Julia Oldham at Portland Pataphysical Society”, PORT, May 12  
+**2013** McQuaid, Cate. “The Artist-Animal Connection”, Boston Globe, November 25, 2013  
+**2012** Graves, Jen. Layoffs, Missing Persons, and Hot Wheels”, The Stranger, January 31  
+**2011** Johnson, Ken. Bronx Calling: The Frist AIM Biennial: Learning About the Marketplace and Entering It,” New York Times, August 11.  
+**2011** Johnson, Paddy. Bronx Calling, The First AIM Biennial: Profit and Loss”, Art Fag City, July 21.  
+**2011** Meier, Allison. “Bronx Calling: The First AIM Biennial”, Hyperallergic, July 18  
+**2011** Esplund, Lance. “Video Artist on Pause; Prodigies in Play”, Wall Street Journal, July 9.  
+**2011** Barratt, Caroline. “The Way Things Work”, Flagpole, April 27  
+**2011** Hitselberger, Brian, “Machinery and Mystery at ATHICA’s The Way Things Work”, Burnaway, April 22  
+**2010** Shuster, Robert. “Day Job at the Drawing Center”, Village Voice, December 22  
+**2010** Karlins, N. F., “Day Job”, Arnet, January 14  
+**2010** Gopnik, Blake, “Art, Science or Both?” Washington Post, September 21  
+**2010** Cotter, Holland, “Young Curators, New Ideas III”, New York Times, August 20  
+**2010** Levy, Michele, “New Curators: A Sequel”, ArtSlant, July 31  
+**2010** Drumm, Perrin, “Young Curators, New Ideas III”, sunFiltered at the Sundance Channel, July 21  
+**2010** Heilenman, Diane, “Julia Oldham’s insect videos have legs”, Louisville Courier-Journal, Arts, May 9  
+**2010** Peng, Qi, “Exclusive Assassination: Julia Oldham,” Examiner.com, January 18  
+**2009** Goetzman, Keith, “Dance Like a Bug,” Utne Reader, Arts Blog, December 21  
+**2009** Bras & Resende, “Churr-churr Ziz Ziz Ziz”, Magnetica Magazine, Volume 13, December, p. 58-59  
+**2009** Jerousek-Smith, Madeleine. “A Bug’s Dance”, The University of Chicago Magazine, November-December  
+**2009** Chatterson, Kris. “Downtown May 2009,” KCLOG, May 31  
+**2009** Chatterson, Kris. “Red Hook Brooklyn May 2009”, KCLOG, May 24  
+**2009** Covit, Dana. “Transmodern in Retrospect”, Radar Redux, April 19  
+**2009** Ayala, Bruno. “Julia Oldham apresenta “Balmy” no Espaço3″, Janela Urbana, March 24  
+**2009** Leorne, Ana. “Internacionalização da vídeo-arte de Julia Oldham começa por Lisboa”, Rascunho, March 23  
+**2009** Video interview with Art in General, Art in General Production Notes, April 4  
+**2009** Hackett, Regina.“‘Dearly Madly’: Romance as the End of the Road”, March 25, Another Bouncing Ball, Seattle, WA  
+**2009** Hobart, Erika. “Julia Oldham”, Seattle Weekly, Arts Section, March 28  
+**2009** Parsons, Laura. “Nice Niche: Art Sparks in the Stacks”, The Hook, February 2  
+**2009** “Archeology of Wonder Closing Reception”, Real Hartford, January 4  
+**2008** Hoffman, Hank. “Diverse ‘Archeology of Wonder’ show at Real Art Ways”, Connecticut Art Scene, December 10  
+**2008** Symkus, Ed. “Into the ‘Wild'”, Wicked Local, April 1  
+**2007** Ramos, Sam. “Gallery Shorts”, F News, May Edition  
+**2006** “A Closer Look: Recent Graduate Work”, Tableau, Spring/Summer, Volume 8, Number 1, p. 15  
