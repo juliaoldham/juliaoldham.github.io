@@ -16,6 +16,7 @@ plugins:             [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 title:		           "Julia Oldham"
 description:	       "Artist Site"
 author:              "Julia Oldham"
+url:                  https://juliaoldham.com
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
