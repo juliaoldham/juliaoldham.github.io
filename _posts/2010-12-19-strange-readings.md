@@ -6,3 +6,18 @@ image: "strange-readings/infinitely-impossible-1.jpg"
 ---
 
 Through research and collaboration with scientists, I find the potential for love stories within mathematics and physics, and I translate scientific theories into emotional narratives. I am always the main character in my videos: a bereft researcher in love with a faraway space probe, a lover seeking in vain to achieve the infinite, a woman in a doomed relationship with her own antimatter conjugate. Parallel journeys occur in the stories in my videos: a quest toward scientific understanding and a plummet into the throes of heartache and obsession.
+
+{% include vimeoPlayer.html id=31929854 %}
+
+{% include vimeoPlayer.html id=46003367 %}
+
+{% include vimeoPlayer.html id=80964445 %}
+
+{% include vimeoPlayer.html id=27780262 %}
+
+{% include vimeoPlayer.html id=32758511 %}
+
+{% include vimeoPlayer.html id=43943341 %}
+
+{% include vimeoPlayer.html id=69143854 %}
+
