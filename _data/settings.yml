@@ -12,8 +12,6 @@ menu:
 - {name: 'CV',        url: 'cv'}
 - {name: 'Press',     url: 'press'}
 - {name: 'Contact',   url: 'contact'}
-- {name: 'Shop',      url: 'shop'}
-
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
