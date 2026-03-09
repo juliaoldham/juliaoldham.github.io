@@ -10,6 +10,8 @@ permalink: /cv
 
 **Solo and Collaborative Exhibitions and Projects**
 
+**2026** September: Orange: Plexus Projects, Brooklyn, NY  
+**2026** September: Orange: Patricia Valian Reser Center for the Creative Arts (PRAx), Corvallis, OR  
 **2024** The Afterlife of Abandoned Objects: Elizabeth Stone Harper Gallery at Presbyterian College, Clinton, SC  
 **2023** Loneliness Creeps Down the Spine: Gallery Photoland, The Evergreeen State College, Olympia, WA  
 **2023** Birth of the Hyperforest: 511 Gallery at PNCA, Portland, OR  
@@ -30,7 +32,7 @@ permalink: /cv
 **2017** March into the Sea (with Melody Owen): Optic, Corvallis, OR  
 **2017** Mother (with Roxanne Jackson): The Art Gym, Marylhurst, OR  
 **2017** Girl Under the Stairs: This Friday or Next Friday, Brooklyn, NY  
-****2016**** Chasing the Wild Boar (solo screening): Northwest Film Center at the Portland Museum of Art, Portland, OR  
+**2016** Chasing the Wild Boar (solo screening): Northwest Film Center at the Portland Museum of Art, Portland, OR  
 **2016** Julia Oldham and Jack Featherly (Portland Biennial **2016**, curated by Michelle Grabner): Royal Nebaker Gallery, Astoria, OR  
 **2016** How to Escape a Black Hole: Gray Box, Portland, OR  
 **2016** Julia Oldham: Recent Videos: Foyer Gallery, Ablright College, Reading, PA  
@@ -53,21 +55,18 @@ permalink: /cv
 **2010** Works by Julia Oldham: Anchor Art Space, Anacortes, WA  
 **2009** The Timber: Art in General, New York, NY  
 **2009** Balmy: Espaço3, Lisbon, Portugal  
-**2009** Bramble Standoff: Media Niche at the Fine Arts Library, University
-of Virginia, Charlottesville, VA  
-**2007** Spiders and Insects: Macalester College Gallery, St. Paul,
-MN  
+**2009** Bramble Standoff: Media Niche at the Fine Arts Library, University of Virginia, Charlottesville, VA  
+**2007** Spiders and Insects: Macalester College Gallery, St. Paul, MN    
 **2006** 12 x 12 Exhibition: Museum of Contemporary Art, Chicago, IL  
-**2005** Traces and Bearings: with Kate Baird Gallery 405, Springfield,
-MO  
-**2005** Habitat: Thesis Exhibition with Kate Baird, Midway Studios,
-Chicago, IL  
-**2005** Fight or Flight: with Alison Ruttan, Three Arts Club, Chicago,
-IL  
+**2005** Traces and Bearings: with Kate Baird Gallery 405, Springfield, MO    
+**2005** Habitat: Thesis Exhibition with Kate Baird, Midway Studios, Chicago, IL  
+**2005** Fight or Flight: with Alison Ruttan, Three Arts Club, Chicago, IL  
 **2002** Shift: Gallery H, Washington, DC  
 
 **Selected Group Exhibitions and Screenings**
 
+**2026** Forest Hope Through Innovation: World Forestry Center, Portland, OR  
+**2026** Currents: Patricia Valian Reser Center for the Creative Arts (PRAx), Corvallis, OR  
 **2025** Trees, We Breathe: Wave Hill, Bronx, NY  
 **2025** Beyond the Print: Maude Kerns Gallery, Eugene, OR  
 **2024** Eco Futures: Arsenal Gallery, New York, NY  
