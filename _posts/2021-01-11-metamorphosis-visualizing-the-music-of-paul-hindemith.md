@@ -15,4 +15,8 @@ The Jordan Schnitzer Museum of Art and Eugene Symphony Association celebrate an 
 
 In Oldham's video, created to accompany "March," the final movement of Metamorphosis, she animates urban wilderness landscapes that she explored during her 2019 residency with the New York City Urban Field Station.
 
-Images: two animation stills from The Afterlife of Abandoned Objects, 2020, and two images of Oldham's work projected during the Eugene Symphony's performance in February, 2022, courtesy of the Eugene Symphony.
+Images: two images of Oldham's work projected during the Eugene Symphony's performance in February, 2022, courtesy of the Eugene Symphony.
+
+![](assets/img/metamorphosis-visualizing-the-music-of-paul-hindemith/Julia-Oldham-1.jpg)
+
+![](assets/img/metamorphosis-visualizing-the-music-of-paul-hindemith/Julia-Oldham-2.jpg)
