@@ -9,7 +9,7 @@ image: "undiscovered-city/weird-in-between-collage-2000.jpg"
 
 ![](assets/img/undiscovered-city/gowanus-phytoplankton-sketch.jpg)
 
-![](assets/img/undiscovered-city/beaver-village-final-preview-1024x732.jpg)
+![](assets/img/undiscovered-city/beaver-village-final-preview.jpg)
 
 During the year of 2019 I worked as an artist in residence with the USDA Forest Service's New York City Urban Field Station in Queens to create a body of work called Undiscovered City. For this project, I spoke to nearly 40 stewards of NYC's parks and natural areas about their reflections on the future of the city, especially in regard to nature and climate change. Using STEW-MAP, a database of stewardship groups in New York, as a resource, I connected with a wide range of stewards, including volunteers, scientists, park rangers, gardeners, beekeepers and educators. Some of the reflections that stewards shared were utopian; others were less optimistic.
 
