@@ -11,7 +11,7 @@ image: "september-orange/central-channel-orange.jpg"
 
 ![](assets/img/september-orange/silver-grids-still-3-wide-1024x192.jpg)
 
-{% include vimeoPlayer.html id=1118887332 %}
+{% include vimeoPlayer.html id=1126030003 %}
 
 The Phenocam network is an ecological observatory with hundreds of automated RGB cameras installed on research towers around the world, many of which have been operating for over a decade. The millions of images collected at 30-min intervals are available in an open source format and used by scientists across the globe to study phenology: recurring plant life cycle events like leaf-out, flowering, and senescence. By looking at color data in Phenocam images, especially “canopy greenness,” scientists learn about the state and health of a landscape over time and compare ecosystem state with other measurements of ecosystem functioning, including carbon uptake and evapotranspiration fluxes. 
 
