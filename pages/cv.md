@@ -205,11 +205,12 @@ permalink: /cv
 
 **Awards and Residencies**
 
+**2026** Pine Meadow Ranch Center for Arts and Agriculture Artist Residency, Sisters, OR  
 **2025** Wildfire and Water Residency at Playa, Summer Lake, OR  
-**2024** fluxART Residency
+**2024** fluxART Residency  
 **2024** L.L. Stewart Fellowship in collaboration with Dr. Christopher Still, Patricia Valian Reser Center for the Creative Arts at Oregon State University, Corvallis, OR  
 **2024** Oregon Fellowship at The Studios at MASS MoCA, North Adams, MA  
-**2024** Sitka Center for Art and Ecology, Otis, OR  
+**2024** Sitka Center for Art and Ecology Residency, Otis, OR  
 **2024** Center for Art and Research Project Incubator at the University of Oregon, Eugene, OR  
 **2022** BRIClab Video Art Mentor: Brooklyn, NY  
 **2020** Golden Slice Award for Best Short Film at NHDocs: THe New Haven Documentary Film Festival, New Haven, CT  
@@ -219,7 +220,7 @@ permalink: /cv
 **2018** Oregon Media Arts Fellowship, Oregon Arts Commission, Salem, OR  
 **2018** Smithsonian Institution Artist Research Fellowship Nominee  
 **2017** Camp Colton Artist in Residence Program: Colton, OR  
-**2017** Bison Bison: Corvallis, OR  
+**2017** Bison Bison Artist Residency: Corvallis, OR  
 **2016** AIRIE, Artist in Residence in the Everglades, Everglades National Park, Florida  
 **2016** Wassaic Project Winter Residency: Wassaic Project, Wassaic, NY  
 **2015** Master Artist Residency with Marisa Olson: Atlantic Center for the Arts  
@@ -230,7 +231,7 @@ permalink: /cv
 **2013** Residency Unlimited, New York, NY  
 **2013** Lower Manhattan Cultural Council: Swing Space (as Really Large Numbers with Chad Stayrook), New York, NY  
 **2012** Career Opportunity Grant, Oregon Arts Commission  
-**2012** Coast Time, Lincoln City, OR  
+**2012** Coast Time Artist Residency, Lincoln City, OR  
 **2012** Point B Worklodge Residency, Brooklyn, NY  
 **2011** Cuts and Burns Residency at Outpost, Queens, NY  
 **2010** Artist in the Marketplace at the Bronx Museum of Art, Bronx, NY  
