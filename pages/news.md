@@ -3,7 +3,10 @@ layout: page
 title: "News"
 permalink: /news
 ---
-2026: I am currently participating in the yearlong [Wildfire and Water](https://playasummerlake.org/themed-residency/) residency program at [Playa](https://playasummerlake.org/) in Summer Lake, OR.
+
+2025 - 2026: I am currently participating in the yearlong [Wildfire and Water](https://playasummerlake.org/themed-residency/) residency program at [Playa](https://playasummerlake.org/) in Summer Lake, OR.
+
+May, 2026: I will have a solo show at [Plexus Projects](https://www.plexusprojects.org/) in Brooklyn, NY (online).
 
 June, 2026: I will be participating in a residency at [Pine Meadow Ranch](https://roundhousefoundation.org/pine-meadow-ranch/) in Sisters, OR. 
 
