@@ -10,7 +10,7 @@ permalink: /cv
 
 **Solo and Collaborative Exhibitions and Projects**
 
-**2026** September: Orange: Plexus Projects, Brooklyn, NY  
+**2026** Flux: Plexus Projects, Brooklyn, NY  
 **2026** September: Orange: Patricia Valian Reser Center for the Creative Arts (PRAx), Corvallis, OR  
 **2024** The Afterlife of Abandoned Objects: Elizabeth Stone Harper Gallery at Presbyterian College, Clinton, SC  
 **2023** Loneliness Creeps Down the Spine: Gallery Photoland, The Evergreeen State College, Olympia, WA  
@@ -206,6 +206,7 @@ permalink: /cv
 **Awards and Residencies**
 
 **2025** Wildfire and Water Residency at Playa, Summer Lake, OR  
+**2024** fluxART Residency
 **2024** L.L. Stewart Fellowship in collaboration with Dr. Christopher Still, Patricia Valian Reser Center for the Creative Arts at Oregon State University, Corvallis, OR  
 **2024** Oregon Fellowship at The Studios at MASS MoCA, North Adams, MA  
 **2024** Sitka Center for Art and Ecology, Otis, OR  
