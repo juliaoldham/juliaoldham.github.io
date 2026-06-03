@@ -44,6 +44,7 @@ permalink: /press
 
 **Full List of Press**
 
+**2026** Gardner, Emily. "Artists and Scientists Partner to Bring Atmospheric Data to Life," EOS Magazine, June 3.
 **2024** Slattery, Brian. “Artists Tap into the Roots”, New Haven Independent, September 26.  
 **2024** Grandjean, Patricia. “Into the Woods”, The Daily Nutmeg, September 5.  
 **2020** Ponzio, Karen. “Dogs, Restaurant Workers Get a Fair Shake”, New Haven Independent, August 19.  
