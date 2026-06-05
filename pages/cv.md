@@ -254,6 +254,8 @@ permalink: /cv
 
 **Lectures and Panel Discussions**
 
+**2026** fluxART, National Canter for Atmospheric Research, Boulder, CO  
+**2025** Visiting Speaker Lecture, Ecoinformatics Seminar with Andrew Richardson, Northern Arizona University, Flagstaff, AZ  
 **2024** Visiting Artist Lecture, University of Wisconsin, Madison, WI  
 **2023** Loneliness Creeps Down the Spine gallery talk: Galerie Photoland at The Evergreen State College, Olympia, WA  
 **2023** Artist Lecture: Center for Contemporary Art at Pacific Northwest College of Art  
