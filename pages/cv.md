@@ -65,6 +65,7 @@ permalink: /cv
 
 **Selected Group Exhibitions and Screenings**
 
+**2026** fluxART: Mesa Lab Library at the National Center for Atmospheric Research, Boulder, CO  
 **2026** Forest Hope Through Innovation: World Forestry Center, Portland, OR  
 **2026** Currents: Patricia Valian Reser Center for the Creative Arts (PRAx), Corvallis, OR  
 **2025** Trees, We Breathe: Wave Hill, Bronx, NY  
@@ -254,9 +255,10 @@ permalink: /cv
 
 **Lectures and Panel Discussions**
 
-**2026** fluxART, National Canter for Atmospheric Research, Boulder, CO  
-**2025** Visiting Speaker Lecture, Ecoinformatics Seminar with Andrew Richardson, Northern Arizona University, Flagstaff, AZ  
-**2024** Visiting Artist Lecture, University of Wisconsin, Madison, WI  
+**2026** September Orange: Pine Meadow Ranch, Sisters, OR
+**2026** fluxART: National Canter for Atmospheric Research, Boulder, CO  
+**2025** Visiting Speaker Lecture: Ecoinformatics Seminar with Andrew Richardson, Northern Arizona University, Flagstaff, AZ  
+**2024** Visiting Artist Lecture: University of Wisconsin, Madison, WI  
 **2023** Loneliness Creeps Down the Spine gallery talk: Galerie Photoland at The Evergreen State College, Olympia, WA  
 **2023** Artist Lecture: Center for Contemporary Art at Pacific Northwest College of Art  
 **2022** Birth of the Hyperforest gallery talk: Joan Truckenbrod Gallery, Corvallis, OR  
