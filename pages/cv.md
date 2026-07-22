@@ -255,7 +255,8 @@ permalink: /cv
 
 **Lectures and Panel Discussions**
 
-**2026** September Orange: Pine Meadow Ranch, Sisters, OR
+**2026** Visiting Artist Lecture, University of Nevada, Reno  
+**2026** September Orange: Pine Meadow Ranch, Sisters, OR  
 **2026** fluxART: National Canter for Atmospheric Research, Boulder, CO  
 **2025** Visiting Speaker Lecture: Ecoinformatics Seminar with Andrew Richardson, Northern Arizona University, Flagstaff, AZ  
 **2024** Visiting Artist Lecture: University of Wisconsin, Madison, WI  
