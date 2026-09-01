@@ -65,6 +65,7 @@ permalink: /cv
 
 **Selected Group Exhibitions and Screenings**
 
+**2026** Without Mountains and Rivers Without End: Sheppard Contemporary, University of Nevada, Reno  
 **2026** fluxART: Mesa Lab Library at the National Center for Atmospheric Research, Boulder, CO  
 **2026** Forest Hope Through Innovation: World Forestry Center, Portland, OR  
 **2026** Currents: Patricia Valian Reser Center for the Creative Arts (PRAx), Corvallis, OR  
