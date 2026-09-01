@@ -3,6 +3,14 @@ layout: page
 title: "News"
 permalink: /news
 ---
+Two of my videos are included in this exhibition--
+Without Mountains and Rivers Without End:
+Speculative Geographies on an Interior Northwest
+Curated by Austin Pratt
+Sheppard Contemporary
+University of Nevada, Reno
+August 27, 2026 - December 4, 2026
+
 Article about "September: Orange" in [EOS Magazine](https://eos.org/): [Artists and Scientists Partner to Bring Atmospheric Data to Life](https://eos.org/articles/artists-and-scientists-partner-to-bring-atmospheric-data-to-life)
 
 2025 - 2026: I am currently participating in the yearlong [Wildfire and Water](https://playasummerlake.org/themed-residency/) residency program at [Playa](https://playasummerlake.org/) in Summer Lake, OR.
