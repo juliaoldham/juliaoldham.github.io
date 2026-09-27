@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dendrostalkers"
-date: 2022-07-07
+date: 2024-08-31
 image: "birth-of-the-hyperforest/inverted_1.jpg"
 ---
 
