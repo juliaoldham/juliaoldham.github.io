@@ -13,6 +13,6 @@ In the narrative video "Dendrostalkers," which begins with an emergency warning 
 
 This project has taken various forms, incorporating multiple channels of video that include non-narrative animations of dendrotopes.
 
-![](assets/img/birth-of-the-hyperforest/dendrostalkers-install003.jpg)
-![](assets/img/birth-of-the-hyperforest/dendrostalkers-install002.jpg)
+![](assets/img/birth-of-the-hyperforest/dendrostalkers-install003.jpg)  
+![](assets/img/birth-of-the-hyperforest/dendrostalkers-install002.jpg)  
 ![](assets/img/birth-of-the-hyperforest/296907114_10160000459838629_3222239635363706395_n-1024x576.jpg)
