@@ -2,7 +2,7 @@
 layout: post
 title: "18// Flux and Invisible Red"
 date: 2024-08-31
-image: "18-flux/phenocam-hourly-columns-still002.jpg"
+image: "invisible-red/inv-red-still001.jpg"
 ---
 
 These two projects interpret forestry data related to research at Oregon State University.
