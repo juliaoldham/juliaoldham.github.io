@@ -7,6 +7,7 @@ image: "18-flux/phenocam-hourly-columns-still002.jpg"
 
 These two projects interpret forestry data related to research at Oregon State University.
 
+**18//Flux**
 {% include vimeoPlayer.html id=1004954176 %}
 
 “18//Flux” utilizes daily PhenoCam images and field recordings from the Ameriflux US-Me6 research site near Sisters, Oregon. The Phenocam network is an ecological observatory with over 1000 automated RGB cameras installed on research towers around the world, several of which have been operating for over a decade. The millions of images collected at 30-min intervals are available in an open source format and used by scientists across the globe to study phenology: recurring plant life cycle events like leaf-out, flowering, and senescence. By looking at color data in Phenocam images, especially "canopy greenness," scientists learn about the state and health of a landscape over time and compare ecosystem state with other measurements of ecosystem functioning, including carbon uptake and evapotranspiration fluxes.
@@ -17,6 +18,7 @@ I am interested in presenting all of the available Phenocam data from the Me6 si
 
 Images used in this video were provided by the PhenoCam Network, which has been supported by the National Science Foundation, the Long-Term Agroecosystem Research (LTAR) network which is supported by the United States Department of Agriculture (USDA), the U.S. Department of Energy, the U.S. Geological Survey, the Northeastern States Research Cooperative, and the USA National Phenology Network. Special thanks to the PhenoCam Network collaborators, including site PIs and technicians, for publicly sharing the data that were used in this video.
 
+**Invisible Red**
 {% include vimeoPlayer.html id=1173380317 %}
 
 Solar induced fluorescence (SIF) is the faint glow emitted by chlorophyll that has been activated by the sun. This direct indicator of photosynthesis is not visible to the human eye, falling in the far-red and near-infrared range of light wavelengths. However, it can be imaged by scientists using a Headwall SIF Imager, an instrument that captures detailed spectral data. 
