@@ -4,7 +4,7 @@ title: "News"
 permalink: /news
 ---
 ![](assets/img/news/spark.jpg)
-I am delighted to share that I am one of the recipients of the 2026-2027 Spark Award for Oregon Artists from the [James F. and Marion L. Miller Foundation](https://www.millerfound.org/). 
+I am delighted to share that I am one of the recipients of the 2026-2027 [Spark Award for Oregon Artists](https://www.millerfound.org/news/spark-awards-2026?fbclid=IwY2xjawVjUWdleHRuA2FlbQIxMABwZG9mBWJyaWQRMU9USXdzNGxuVWtoak9GU2tzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfZY_c0X7cYbQcbGQC9lGaCTNZG5dHAmVv1OK6x2s0haquD69w4jTA02Mov6A_aem_-nvfyYxzlJpHb2DN8DBRlw) from the [James F. and Marion L. Miller Foundation](https://www.millerfound.org/). 
 
 From the Miller Foundation:
 The James F. and Marion L. Miller Foundation is thrilled to announce the 2026 recipients of the Spark Award for Oregon Artists. In the third year of this pilot program, the Foundation received 443 applications from visual artists across Oregon. Twenty mid-career artists will each receive $25,000 in flexible funding to support their creative development. Selected by a panel of Oregon-based and national visual arts professionals, these artists join past Spark awardees in the literary/media (2025) and performing arts (2024). 
