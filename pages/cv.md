@@ -65,6 +65,7 @@ permalink: /cv
 
 **Selected Group Exhibitions and Screenings**
 
+**2027** Layered Landscape: Memory and Ecological Witness: Jordan Schnitzer Museum of Art at Portland State University, Portland, OR  
 **2026** Without Mountains and Rivers Without End: Sheppard Contemporary, University of Nevada, Reno  
 **2026** Wildfire+Water Residency Exhibition: Playa Summer Lake, Paisley, OR   
 **2026** fluxART: Mesa Lab Library at the National Center for Atmospheric Research, Boulder, CO  
@@ -208,6 +209,7 @@ permalink: /cv
 
 **Awards and Residencies**
 
+**2026** Spark Award for Oregon Artists, James F. and Marion L. Miller Foundation  
 **2026** Pine Meadow Ranch Center for Arts and Agriculture Artist Residency, Sisters, OR  
 **2025** Wildfire and Water Residency at Playa, Summer Lake, OR  
 **2024** fluxART Residency  
