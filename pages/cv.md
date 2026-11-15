@@ -10,6 +10,7 @@ permalink: /cv
 
 **Solo and Collaborative Exhibitions and Projects**
 
+**2027** Julia Oldham: <terminal>, Austin Peay State University, Clarksville, TN  
 **2026** Flux: Plexus Projects, Brooklyn, NY  
 **2026** September: Orange: Patricia Valian Reser Center for the Creative Arts (PRAx), Corvallis, OR  
 **2024** The Afterlife of Abandoned Objects: Elizabeth Stone Harper Gallery at Presbyterian College, Clinton, SC  
