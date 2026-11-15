@@ -12,7 +12,7 @@ The James F. and Marion L. Miller Foundation is thrilled to announce the 2026 re
 ****
 
 ![](assets/img/news/OldhamPromoweb.jpg)
-Four of my animated video works will be included in a solo exhibition at [<terminal>](https://www.apsu.edu/art-design/galleries/terminal/) at Austin Peay State University in Clarksville, TN from Feb 8 - Mar 5, 2027.
+Four of my animated video works will be included in a solo exhibition at [\<terminal\>](https://www.apsu.edu/art-design/galleries/terminal/) at Austin Peay State University in Clarksville, TN from Feb 8 - Mar 5, 2027.
 
 ****
 
