@@ -23,8 +23,8 @@ Speculative Geographies on an Interior Northwest](https://events.unr.edu/event/w
 Curated by Austin Pratt  
 Sheppard Contemporary  
 University of Nevada, Reno  
-August 27, 2026 - December 4, 2026
-**Artist talk on November 19 ** 
+August 27, 2026 - December 4, 2026  
+**Artist talk on November 19** 
 
 ****
 
